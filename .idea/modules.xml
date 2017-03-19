@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven.osgi.parent/maven.osgi.api/maven.osgi.api.iml" filepath="$PROJECT_DIR$/maven.osgi.parent/maven.osgi.api/maven.osgi.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven.osgi.parent/maven.osgi.app/maven.osgi.app.iml" filepath="$PROJECT_DIR$/maven.osgi.parent/maven.osgi.app/maven.osgi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven.osgi.parent/maven.osgi.parent.iml" filepath="$PROJECT_DIR$/maven.osgi.parent/maven.osgi.parent.iml" />
+    </modules>
+  </component>
+</project>

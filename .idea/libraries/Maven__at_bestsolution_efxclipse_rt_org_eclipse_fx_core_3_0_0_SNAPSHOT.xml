@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: at.bestsolution.efxclipse.rt:org.eclipse.fx.core:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/at/bestsolution/efxclipse/rt/org.eclipse.fx.core/3.0.0-SNAPSHOT/org.eclipse.fx.core-3.0.0-20170319.091613-94.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/at/bestsolution/efxclipse/rt/org.eclipse.fx.core/3.0.0-SNAPSHOT/org.eclipse.fx.core-3.0.0-20170319.091613-94-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/at/bestsolution/efxclipse/rt/org.eclipse.fx.core/3.0.0-SNAPSHOT/org.eclipse.fx.core-3.0.0-20170319.091613-94-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
